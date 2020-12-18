@@ -1,3 +1,3 @@
 # firstproject
 
-### URL : http://wnsghd394.pythonanywhere.com/projectapp/index/
+### 결과물 URL : http://wnsghd394.pythonanywhere.com/projectapp/index/
